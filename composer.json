@@ -1,0 +1,9 @@
+{
+    "name": "makechtec/pdf-builder",
+    "type": "library",
+    "require": {
+        "spipu/html2pdf": "^5.2",
+        "php" : ">=7.0"
+    },
+    "license": "MIT"
+}
