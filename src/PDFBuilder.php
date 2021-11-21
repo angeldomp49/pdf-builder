@@ -1,5 +1,5 @@
 <?php
-namespace App\PixelSiete;
+namespace MakechTec\PDFBuilder;
 
 use Spipu\Html2Pdf\Html2Pdf;
 
